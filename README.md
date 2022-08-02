@@ -13,10 +13,9 @@ This basic block game is developed using Python libraries like Random and pygame
 <img src="https://user-images.githubusercontent.com/75442473/182326840-f037aaf0-1934-463a-aca9-f3c5e9c0018a.png">
 
 ## Demo
- <p align="center">
+<p align="center">
   <img src="https://kidscancode.org/blog/img/shmup_part2_1.gif" width="400" height="370"/>
 </p>
-
 
 
 ## Feedback
